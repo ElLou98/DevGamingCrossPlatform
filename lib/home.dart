@@ -8,7 +8,8 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("G-Store ESPRIT"),
+        //title: const Text("G-Store ESPRIT"),
+        title: const Text("Devil May Cry 5"),
       ),
       body: Column(
         children: [

@@ -26,7 +26,7 @@ class ProductInfo extends StatelessWidget {
               SizedBox(
                 height: 10,
               ),
-              Text(_price.toString() + " TND", textScaleFactor: 2,),
+              Text(_price.toString() + " TND", textScaleFactor: 3,),
             ],
           ),
         ],
